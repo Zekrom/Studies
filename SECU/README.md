@@ -1,4 +1,5 @@
 | Port(s) |	Protocol |
+| --- | --- |
 | 20/21 (TCP) |	FTP |
 | 22 (TCP) |	SSH |
 | 23 (TCP) |	Telnet |
